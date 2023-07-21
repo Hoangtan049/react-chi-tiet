@@ -19,7 +19,7 @@ export const TestImage = () => {
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
       <h2 style={{ fontSize: 30 }}>
-        viếng, dâng hương tại Nghĩa trang Hàng Dương
+        Chủ tịch nước Võ Văn Thưởng viếng, dâng hương tại Nghĩa trang Hàng Dương
       </h2>
       <p>
         <span className="glyphicon glyphicon-user"> </span>
