@@ -27,7 +27,7 @@ export const TestImage = () => {
           Dương Võ Hoàng Tấn - hoangtan10103@gmail.com
         </span>
         <span style={{ marginLeft: 200, fontSize: 12 }}>
-          19/07/2023 12:04 GMT+7
+          20/07/2023 12:04 GMT+7
         </span>
       </p>
       <h4>
